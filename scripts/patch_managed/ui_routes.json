@@ -1,0 +1,708 @@
+{
+  "routes": [
+    {
+      "file": "level0",
+      "buttonPathNames": [
+        "Canvas",
+        "Collected cards",
+        "Back"
+      ],
+      "scope": {
+        "gameObjectId": 383,
+        "name": "Collected cards",
+        "pathNames": [
+          "Canvas",
+          "Collected cards"
+        ],
+        "pathIds": [
+          783,
+          383
+        ]
+      },
+      "priority": 700,
+      "originalOnClick": [
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 383
+          },
+          "targetType": "UnityEngine.GameObject, UnityEngine",
+          "method": "SetActive",
+          "mode": 6,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": false,
+          "callState": 2
+        },
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 772
+          },
+          "targetType": "UnityEngine.GameObject, UnityEngine",
+          "method": "SetActive",
+          "mode": 6,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": true,
+          "callState": 2
+        },
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 883
+          },
+          "targetType": "UnityEngine.GameObject, UnityEngine",
+          "method": "SetActive",
+          "mode": 6,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": true,
+          "callState": 2
+        },
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 752
+          },
+          "targetType": "UnityEngine.GameObject, UnityEngine",
+          "method": "SetActive",
+          "mode": 6,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": false,
+          "callState": 2
+        }
+      ]
+    },
+    {
+      "file": "level0",
+      "buttonPathNames": [
+        "Canvas",
+        "Credits",
+        "Back"
+      ],
+      "scope": {
+        "gameObjectId": 1032,
+        "name": "Credits",
+        "pathNames": [
+          "Canvas",
+          "Credits"
+        ],
+        "pathIds": [
+          783,
+          1032
+        ]
+      },
+      "priority": 700,
+      "originalOnClick": [
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 1032
+          },
+          "targetType": "",
+          "method": "SetActive",
+          "mode": 6,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": false,
+          "callState": 2
+        }
+      ]
+    },
+    {
+      "file": "level0",
+      "buttonPathNames": [
+        "GAMEMANAGER",
+        "Canvas (Options menu)",
+        "UI",
+        "OptionsPanel",
+        "Background",
+        "TABS",
+        "TAB_CONTROLS",
+        "DuplicateInput",
+        "Back"
+      ],
+      "scope": {
+        "gameObjectId": 567,
+        "name": "DuplicateInput",
+        "pathNames": [
+          "GAMEMANAGER",
+          "Canvas (Options menu)",
+          "UI",
+          "OptionsPanel",
+          "Background",
+          "TABS",
+          "TAB_CONTROLS",
+          "DuplicateInput"
+        ],
+        "pathIds": [
+          1340,
+          885,
+          746,
+          501,
+          866,
+          660,
+          612,
+          567
+        ]
+      },
+      "priority": 900,
+      "originalOnClick": [
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 4642
+          },
+          "targetType": "",
+          "method": "BackRewrite",
+          "mode": 1,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": false,
+          "callState": 2
+        }
+      ]
+    },
+    {
+      "file": "level0",
+      "buttonPathNames": [
+        "GAMEMANAGER",
+        "Canvas (Options menu)",
+        "UI",
+        "PauseUI",
+        "PausePanel",
+        "Are you sure Quit?",
+        "NO"
+      ],
+      "scope": {
+        "gameObjectId": 983,
+        "name": "Are you sure Quit?",
+        "pathNames": [
+          "GAMEMANAGER",
+          "Canvas (Options menu)",
+          "UI",
+          "PauseUI",
+          "PausePanel",
+          "Are you sure Quit?"
+        ],
+        "pathIds": [
+          1340,
+          885,
+          746,
+          529,
+          546,
+          983
+        ]
+      },
+      "priority": 800,
+      "originalOnClick": [
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 983
+          },
+          "targetType": "",
+          "method": "SetActive",
+          "mode": 6,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": false,
+          "callState": 2
+        }
+      ]
+    },
+    {
+      "file": "level0",
+      "buttonPathNames": [
+        "Canvas",
+        "Menu",
+        "Are you sure New Game?",
+        "no"
+      ],
+      "scope": {
+        "gameObjectId": 628,
+        "name": "Are you sure New Game?",
+        "pathNames": [
+          "Canvas",
+          "Menu",
+          "Are you sure New Game?"
+        ],
+        "pathIds": [
+          783,
+          883,
+          628
+        ]
+      },
+      "priority": 800,
+      "originalOnClick": [
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 628
+          },
+          "targetType": "",
+          "method": "SetActive",
+          "mode": 6,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": false,
+          "callState": 2
+        }
+      ]
+    },
+    {
+      "file": "level0",
+      "buttonPathNames": [
+        "GAMEMANAGER",
+        "Canvas (Options menu)",
+        "UI",
+        "PauseUI",
+        "PausePanel",
+        "BTN_Resume"
+      ],
+      "scope": {
+        "gameObjectId": 529,
+        "name": "PauseUI",
+        "pathNames": [
+          "GAMEMANAGER",
+          "Canvas (Options menu)",
+          "UI",
+          "PauseUI"
+        ],
+        "pathIds": [
+          1340,
+          885,
+          746,
+          529
+        ]
+      },
+      "priority": 100,
+      "originalOnClick": [
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 4603
+          },
+          "targetType": "",
+          "method": "Unpause",
+          "mode": 1,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": false,
+          "callState": 2
+        }
+      ]
+    },
+    {
+      "file": "level0",
+      "buttonPathNames": [
+        "GAMEMANAGER",
+        "Canvas (Options menu)",
+        "UI",
+        "OptionsPanel",
+        "Background",
+        "Options_Buttons",
+        "Back"
+      ],
+      "scope": {
+        "gameObjectId": 501,
+        "name": "OptionsPanel",
+        "pathNames": [
+          "GAMEMANAGER",
+          "Canvas (Options menu)",
+          "UI",
+          "OptionsPanel"
+        ],
+        "pathIds": [
+          1340,
+          885,
+          746,
+          501
+        ]
+      },
+      "priority": 600,
+      "originalOnClick": [
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 501
+          },
+          "targetType": "",
+          "method": "SetActive",
+          "mode": 6,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": false,
+          "callState": 2
+        },
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 546
+          },
+          "targetType": "",
+          "method": "SetActive",
+          "mode": 6,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": true,
+          "callState": 2
+        }
+      ]
+    },
+    {
+      "file": "level0",
+      "buttonPathNames": [
+        "Credits",
+        "Credits",
+        "Back"
+      ],
+      "scope": {
+        "gameObjectId": 1105,
+        "name": "Credits",
+        "pathNames": [
+          "Credits",
+          "Credits"
+        ],
+        "pathIds": [
+          1117,
+          1105
+        ]
+      },
+      "priority": 690,
+      "originalOnClick": [
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 1105
+          },
+          "targetType": "",
+          "method": "SetActive",
+          "mode": 6,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": false,
+          "callState": 2
+        }
+      ]
+    },
+    {
+      "file": "level1",
+      "buttonPathNames": [
+        "-----------Main Elements---------------",
+        "GAMEMANAGER",
+        "Canvas (Options menu)",
+        "UI",
+        "OptionsPanel",
+        "Background",
+        "TABS",
+        "TAB_CONTROLS",
+        "DuplicateInput",
+        "Back"
+      ],
+      "scope": {
+        "gameObjectId": 7605,
+        "name": "DuplicateInput",
+        "pathNames": [
+          "-----------Main Elements---------------",
+          "GAMEMANAGER",
+          "Canvas (Options menu)",
+          "UI",
+          "OptionsPanel",
+          "Background",
+          "TABS",
+          "TAB_CONTROLS",
+          "DuplicateInput"
+        ],
+        "pathIds": [
+          7985,
+          6954,
+          7890,
+          8096,
+          7714,
+          8045,
+          7529,
+          7640,
+          7605
+        ]
+      },
+      "priority": 900,
+      "originalOnClick": [
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 38439
+          },
+          "targetType": "",
+          "method": "BackRewrite",
+          "mode": 1,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": false,
+          "callState": 2
+        }
+      ]
+    },
+    {
+      "file": "level1",
+      "buttonPathNames": [
+        "-----------Main Elements---------------",
+        "GAMEMANAGER",
+        "Canvas (Options menu)",
+        "UI",
+        "OptionsPanel",
+        "Background",
+        "Options_Buttons",
+        "Back"
+      ],
+      "scope": {
+        "gameObjectId": 7714,
+        "name": "OptionsPanel",
+        "pathNames": [
+          "-----------Main Elements---------------",
+          "GAMEMANAGER",
+          "Canvas (Options menu)",
+          "UI",
+          "OptionsPanel"
+        ],
+        "pathIds": [
+          7985,
+          6954,
+          7890,
+          8096,
+          7714
+        ]
+      },
+      "priority": 600,
+      "originalOnClick": [
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 7714
+          },
+          "targetType": "",
+          "method": "SetActive",
+          "mode": 6,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": false,
+          "callState": 2
+        },
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 7588
+          },
+          "targetType": "",
+          "method": "SetActive",
+          "mode": 6,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": true,
+          "callState": 2
+        }
+      ]
+    },
+    {
+      "file": "level1",
+      "buttonPathNames": [
+        "-----------Main Elements---------------",
+        "GAMEMANAGER",
+        "Canvas (Options menu)",
+        "UI",
+        "PauseUI",
+        "PausePanel",
+        "BTN_Resume"
+      ],
+      "scope": {
+        "gameObjectId": 7572,
+        "name": "PauseUI",
+        "pathNames": [
+          "-----------Main Elements---------------",
+          "GAMEMANAGER",
+          "Canvas (Options menu)",
+          "UI",
+          "PauseUI"
+        ],
+        "pathIds": [
+          7985,
+          6954,
+          7890,
+          8096,
+          7572
+        ]
+      },
+      "priority": 100,
+      "originalOnClick": [
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 38411
+          },
+          "targetType": "",
+          "method": "Unpause",
+          "mode": 1,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": false,
+          "callState": 2
+        }
+      ]
+    },
+    {
+      "file": "level1",
+      "buttonPathNames": [
+        "-----------Main Elements---------------",
+        "GAMEMANAGER",
+        "Canvas (Options menu)",
+        "UI",
+        "PauseUI",
+        "PausePanel",
+        "Are you sure Quit?",
+        "NO"
+      ],
+      "scope": {
+        "gameObjectId": 7972,
+        "name": "Are you sure Quit?",
+        "pathNames": [
+          "-----------Main Elements---------------",
+          "GAMEMANAGER",
+          "Canvas (Options menu)",
+          "UI",
+          "PauseUI",
+          "PausePanel",
+          "Are you sure Quit?"
+        ],
+        "pathIds": [
+          7985,
+          6954,
+          7890,
+          8096,
+          7572,
+          7588,
+          7972
+        ]
+      },
+      "priority": 800,
+      "originalOnClick": [
+        {
+          "target": {
+            "fileID": 0,
+            "pathID": 7972
+          },
+          "targetType": "",
+          "method": "SetActive",
+          "mode": 6,
+          "objectArgument": {
+            "fileID": 0,
+            "pathID": 0
+          },
+          "objectArgumentType": "UnityEngine.Object, UnityEngine",
+          "intArgument": 0,
+          "floatArgument": 0.0,
+          "stringArgument": "",
+          "boolArgument": false,
+          "callState": 2
+        }
+      ]
+    }
+  ]
+}

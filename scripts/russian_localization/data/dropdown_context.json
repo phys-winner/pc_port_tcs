@@ -1,0 +1,950 @@
+[
+  {
+    "file": "level0",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Shadow Cascades"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      }
+    ],
+    "pathId": 3478
+  },
+  {
+    "file": "level0",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Blend Weight"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      }
+    ],
+    "pathId": 3518
+  },
+  {
+    "file": "level0",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Texture Quality"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      }
+    ],
+    "pathId": 3531
+  },
+  {
+    "file": "level0",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Shadow Resolution"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      }
+    ],
+    "pathId": 3712
+  },
+  {
+    "file": "level0",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Quality"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      }
+    ],
+    "pathId": 3736
+  },
+  {
+    "file": "level0",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Shadow Projection"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      }
+    ],
+    "pathId": 3792
+  },
+  {
+    "file": "level0",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Antialiasing"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      }
+    ],
+    "pathId": 3972
+  },
+  {
+    "file": "level0",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Menu"
+      },
+      {
+        "name": "Canvas"
+      }
+    ],
+    "pathId": 4054
+  },
+  {
+    "file": "level0",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Shadow Quality"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      }
+    ],
+    "pathId": 4066
+  },
+  {
+    "file": "level0",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "VSync"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      }
+    ],
+    "pathId": 4313
+  },
+  {
+    "file": "level0",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Resolution"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      }
+    ],
+    "pathId": 4322
+  },
+  {
+    "file": "level0",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Anisotropic"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      }
+    ],
+    "pathId": 4435
+  },
+  {
+    "file": "level1",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "SSR"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      },
+      {
+        "name": "-----------Main Elements---------------"
+      }
+    ],
+    "pathId": 38293
+  },
+  {
+    "file": "level1",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Shadow Resolution"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      },
+      {
+        "name": "-----------Main Elements---------------"
+      }
+    ],
+    "pathId": 38605
+  },
+  {
+    "file": "level1",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Quality"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      },
+      {
+        "name": "-----------Main Elements---------------"
+      }
+    ],
+    "pathId": 38620
+  },
+  {
+    "file": "level1",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Shadow Projection"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      },
+      {
+        "name": "-----------Main Elements---------------"
+      }
+    ],
+    "pathId": 38654
+  },
+  {
+    "file": "level1",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Shadow Cascades"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      },
+      {
+        "name": "-----------Main Elements---------------"
+      }
+    ],
+    "pathId": 38782
+  },
+  {
+    "file": "level1",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Blend Weight"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      },
+      {
+        "name": "-----------Main Elements---------------"
+      }
+    ],
+    "pathId": 38809
+  },
+  {
+    "file": "level1",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Texture Quality"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      },
+      {
+        "name": "-----------Main Elements---------------"
+      }
+    ],
+    "pathId": 38815
+  },
+  {
+    "file": "level1",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Anisotropic"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      },
+      {
+        "name": "-----------Main Elements---------------"
+      }
+    ],
+    "pathId": 38868
+  },
+  {
+    "file": "level1",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "VSync"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      },
+      {
+        "name": "-----------Main Elements---------------"
+      }
+    ],
+    "pathId": 38958
+  },
+  {
+    "file": "level1",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Resolution"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      },
+      {
+        "name": "-----------Main Elements---------------"
+      }
+    ],
+    "pathId": 38963
+  },
+  {
+    "file": "level1",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Antialiasing"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      },
+      {
+        "name": "-----------Main Elements---------------"
+      }
+    ],
+    "pathId": 39094
+  },
+  {
+    "file": "level1",
+    "hierarchy": [
+      {
+        "name": "Dropdown"
+      },
+      {
+        "name": "Shadow Quality"
+      },
+      {
+        "name": "Content"
+      },
+      {
+        "name": "Mask"
+      },
+      {
+        "name": "TAB_GRAPHIC"
+      },
+      {
+        "name": "TABS"
+      },
+      {
+        "name": "Background"
+      },
+      {
+        "name": "OptionsPanel"
+      },
+      {
+        "name": "UI"
+      },
+      {
+        "name": "Canvas (Options menu)"
+      },
+      {
+        "name": "GAMEMANAGER"
+      },
+      {
+        "name": "-----------Main Elements---------------"
+      }
+    ],
+    "pathId": 39161
+  }
+]

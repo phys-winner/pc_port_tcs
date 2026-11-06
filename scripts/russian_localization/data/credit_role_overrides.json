@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "file": "level0",
+      "gameObjectPath": "Credits/Credits/Group/Localization/Label",
+      "source": "出演サポーター",
+      "ru": "Перевод"
+    },
+    {
+      "file": "level0",
+      "gameObjectPath": "Canvas/Credits/Group/SpecialThanks/Text",
+      "source": "おだくん\r　(VO ニュースキャスター )\nMiho\t　　(VO クラスメイトA )\nmich6by\t(VO クラスメイトB )",
+      "ru": "おだくん\r　(озвучка: диктор новостей)\nMiho\t　　(озвучка: одноклассник A)\nmich6by\t(озвучка: одноклассник B)"
+    },
+    {
+      "file": "level1",
+      "gameObjectPath": "-----------Main Elements---------------/Player/CameraAnimations/MouseLook/ThirdPersonCamDistOffset/CutscenePivot/ThirdPersonAvoidCollision/MainCamera/AM_Inventory/InventoryCanvas/Canvas/bg Image/Inventory Label (1)",
+      "source": "ITEMS IN HAND",
+      "ru": "В РУКАХ"
+    },
+    {
+      "file": "level1",
+      "gameObjectPath": "-----------Main Elements---------------/Player/CameraAnimations/MouseLook/ThirdPersonCamDistOffset/CutscenePivot/ThirdPersonAvoidCollision/MainCamera/AM_Inventory/InventoryCanvas/Canvas/bg Image/Inventory Label",
+      "source": "ITEMS IN HAND",
+      "ru": "В РУКАХ"
+    }
+  ]
+}

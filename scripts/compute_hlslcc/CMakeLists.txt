@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(closing_shift_compute_hlslcc LANGUAGES CXX)
+add_executable(compute_hlslcc main.cpp)
+target_compile_features(compute_hlslcc PRIVATE cxx_std_14)
+target_include_directories(compute_hlslcc PRIVATE "${HLSLCC_SOURCE}/include" "${HLSLCC_SOURCE}/src")
+target_link_libraries(compute_hlslcc PRIVATE "${HLSLCC_LIBRARY}" d3dcompiler)

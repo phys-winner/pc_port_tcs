@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net10.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>disable</Nullable><EnableDefaultCompileItems>false</EnableDefaultCompileItems></PropertyGroup>
+  <ItemGroup>
+    <Compile Include="../AndroidTouchRegion.cs" Link="AndroidTouchRegion.cs" />
+    <Compile Include="../AndroidNativeMousePolicy.cs" Link="AndroidNativeMousePolicy.cs" />
+    <Compile Include="../AndroidTouchPolicy.cs" Link="AndroidTouchPolicy.cs" />
+    <Compile Include="../AndroidQaSettingsHold.cs" Link="AndroidQaSettingsHold.cs" />
+    <Compile Include="../AndroidInteractionRaycast.cs" Link="AndroidInteractionRaycast.cs" />
+    <Compile Include="../AndroidActionIcon.cs" Link="AndroidActionIcon.cs" />
+    <Compile Include="../AndroidToggleRow.cs" Link="AndroidToggleRow.cs" />
+    <Compile Include="UnityStubs.cs" />
+    <Compile Include="Program.cs" />
+  </ItemGroup>
+</Project>

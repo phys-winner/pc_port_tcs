@@ -1,0 +1,369 @@
+{
+  "baseSourceSha256": "1502814fb5d373353d5a36d1a04201cd98b21ffd632c6cdf01e905f9185261b4",
+  "language": {
+    "code": "ru",
+    "name": "Русский (AI)"
+  },
+  "terms": [
+    {
+      "term": "Credits_HighlightSupporters",
+      "en": "Highlight Supporters",
+      "jp": "ハイライトサポーター",
+      "ru": "Особые спонсоры",
+      "type": 0
+    },
+    {
+      "term": "Credits_SupporterAppearances",
+      "en": "Supporter Appearances",
+      "jp": "出演サポーター",
+      "ru": "Спонсоры в ролях",
+      "type": 0
+    },
+    {
+      "term": "Credits_ThankYou",
+      "en": "If you liked the game, please leave a review!\n\nThank you for playing!",
+      "jp": "もし良かったらSTEAMレビューでのご感想をお待ちしております！よろしくお願いいたします！\n\nThank you for playing!",
+      "ru": "Если вам понравилась игра, оставьте отзыв в Steam!\n\nСпасибо за игру!\n\nПеревод на русский: ChatGPT (OpenAI)",
+      "type": 0
+    },
+    {
+      "term": "Dialogue_InventoryTutorial",
+      "en": "Press [Tab] to open your inventory\nYou can also switch items using your [Mouse Scroll]",
+      "jp": "",
+      "ru": "Нажмите [Tab], чтобы открыть инвентарь\nПредметы также можно переключать с помощью [Mouse Scroll]",
+      "type": 0
+    },
+    {
+      "term": "Dialogue_MovementTutorial",
+      "en": "Use [Mouse], [W], [A], [S], [D] for movement\nPress [Left Mouse Button] to interact",
+      "jp": "",
+      "ru": "Используйте [Mouse], [W], [A], [S], [D] для передвижения\nНажмите [Left Mouse Button] для взаимодействия",
+      "type": 0
+    },
+    {
+      "term": "Item_100Yen",
+      "en": "100 Yen",
+      "jp": "",
+      "ru": "100 иен",
+      "type": 0
+    },
+    {
+      "term": "Item_BicycleLockKey",
+      "en": "Bicycle Lock Key",
+      "jp": "",
+      "ru": "Ключ от велосипедного замка",
+      "type": 0
+    },
+    {
+      "term": "Item_FixedTape",
+      "en": "Repaired Tape",
+      "jp": "",
+      "ru": "Починенная кассета",
+      "type": 0
+    },
+    {
+      "term": "Item_Flashlight",
+      "en": "Flashlight",
+      "jp": "",
+      "ru": "Фонарик",
+      "type": 0
+    },
+    {
+      "term": "Item_Food",
+      "en": "Food from a vending machine",
+      "jp": "自動販売機から得た食べ物",
+      "ru": "Еда из торгового автомата",
+      "type": 0
+    },
+    {
+      "term": "Item_FoodTicket",
+      "en": "Vending Machine Ticket",
+      "jp": "\r自動販売機チケット",
+      "ru": "Талон для торгового автомата",
+      "type": 0
+    },
+    {
+      "term": "Item_PadlockKey",
+      "en": "Padlock Key",
+      "jp": "",
+      "ru": "Ключ от навесного замка",
+      "type": 0
+    },
+    {
+      "term": "Item_Poem",
+      "en": "Poem",
+      "jp": "",
+      "ru": "Стихотворение",
+      "type": 0
+    },
+    {
+      "term": "Item_ReversedTape",
+      "en": "ReversedTape",
+      "jp": "",
+      "ru": "Кассета с записью задом наперёд",
+      "type": 0
+    },
+    {
+      "term": "Item_RottenFood",
+      "en": "Rotten Food",
+      "jp": "",
+      "ru": "Испорченная еда",
+      "type": 0
+    },
+    {
+      "term": "Item_StationKey",
+      "en": "Radio Station Key",
+      "jp": "",
+      "ru": "Ключ от радиостанции",
+      "type": 0
+    },
+    {
+      "term": "Item_Tape",
+      "en": "Tape",
+      "jp": "",
+      "ru": "Кассета",
+      "type": 0
+    },
+    {
+      "term": "Item_TenYen",
+      "en": "TenYen",
+      "jp": "",
+      "ru": "10 иен",
+      "type": 0
+    },
+    {
+      "term": "Item_TowerKey",
+      "en": "Tower Key",
+      "jp": "",
+      "ru": "Ключ от башни",
+      "type": 0
+    },
+    {
+      "term": "Item_TrashTongs",
+      "en": "TrashTongs",
+      "jp": "",
+      "ru": "Щипцы для мусора",
+      "type": 0
+    },
+    {
+      "term": "Item_UVLight",
+      "en": "UV Flashlight",
+      "jp": "",
+      "ru": "Ультрафиолетовый фонарик",
+      "type": 0
+    },
+    {
+      "term": "Item_VoiceRecorder",
+      "en": "Voice Recorder",
+      "jp": "",
+      "ru": "Диктофон",
+      "type": 0
+    },
+    {
+      "term": "UI_BetaEnding1",
+      "en": "Thank you for playing the beta!",
+      "jp": "ベータ版のプレイお疲れ様です！",
+      "ru": "Спасибо за игру в бета-версию!",
+      "type": 0
+    },
+    {
+      "term": "UI_BetaEnding2",
+      "en": "The final build will have 3 more characters and several more puzzles.",
+      "jp": "",
+      "ru": "В полной версии появятся ещё три персонажа и несколько новых головоломок.",
+      "type": 0
+    },
+    {
+      "term": "UI_BetaEnding3",
+      "en": "With an ending fitting to the story",
+      "jp": "",
+      "ru": "И подходящая для этой истории концовка.",
+      "type": 0
+    },
+    {
+      "term": "UI_BetaEnding4",
+      "en": "We will update the game frequently until release so please let us know if there's anything wrong with the game!",
+      "jp": "",
+      "ru": "До релиза мы будем часто обновлять игру. Пожалуйста, сообщайте нам о любых неполадках!",
+      "type": 0
+    },
+    {
+      "term": "UI_BetaEnding5",
+      "en": "Thanks once again! \nAnd look forward to the final build!",
+      "jp": "",
+      "ru": "Ещё раз спасибо!\nЖдите полную версию!",
+      "type": 0
+    },
+    {
+      "term": "UI_EscapeOnQTE",
+      "en": "ESCAPE",
+      "jp": "",
+      "ru": "ОСВОБОДИТЬСЯ",
+      "type": 0
+    },
+    {
+      "term": "UI_GetUp",
+      "en": "Get up",
+      "jp": "",
+      "ru": "Подняться",
+      "type": 0
+    },
+    {
+      "term": "UI_GoBack",
+      "en": "Back",
+      "jp": "戻る",
+      "ru": "Назад",
+      "type": 0
+    },
+    {
+      "term": "UI_Harae",
+      "en": "Purification",
+      "jp": "",
+      "ru": "Очищение",
+      "type": 0
+    },
+    {
+      "term": "UI_Health",
+      "en": "Health",
+      "jp": "",
+      "ru": "Здоровье",
+      "type": 0
+    },
+    {
+      "term": "UI_Language",
+      "en": "Language",
+      "jp": "言語",
+      "ru": "Язык",
+      "type": 0
+    },
+    {
+      "term": "UI_PanicInteractDisable",
+      "en": "I have no time for this!",
+      "jp": "",
+      "ru": "Сейчас не до этого!",
+      "type": 0
+    },
+    {
+      "term": "UI_PanicLabel",
+      "en": "PANIC",
+      "jp": "",
+      "ru": "ПАНИКА",
+      "type": 0
+    },
+    {
+      "term": "UI_Rewrite",
+      "en": "Rebind",
+      "jp": "はい",
+      "ru": "Переназначить",
+      "type": 0
+    },
+    {
+      "term": "UI_RewriteAsk",
+      "en": "This key is already assigned.\nReassign it?",
+      "jp": "は既に設定済みです。\nそれでも設定しますか？",
+      "ru": "Эта клавиша уже используется.\nПереназначить её?",
+      "type": 0
+    },
+    {
+      "term": "UI_SachieFalSeqTransition",
+      "en": "Sachie...",
+      "jp": "咲千江さん…",
+      "ru": "Сатиэ...",
+      "type": 0
+    },
+    {
+      "term": "UI_TheNextDay",
+      "en": "The Next Day...",
+      "jp": "",
+      "ru": "На следующий день...",
+      "type": 0
+    }
+  ],
+  "newTerms": [
+    {
+      "term": "AI_Credits_Music",
+      "en": "Music in Credits",
+      "jp": "クレジット BGM",
+      "ru": "Музыка в титрах",
+      "type": 0
+    },
+    {
+      "term": "AI_Credits_SpecialThanks",
+      "en": "Special Thanks",
+      "jp": "出演サポーター",
+      "ru": "Особая благодарность",
+      "type": 0
+    },
+    {
+      "term": "AI_Credits_Sponsor",
+      "en": "Sponsor",
+      "jp": "",
+      "ru": "Спонсор",
+      "type": 0
+    },
+    {
+      "term": "AI_Credits_SupporterAppearances",
+      "en": "Supporter Appearances",
+      "jp": "出演サポーター",
+      "ru": "Спонсоры в ролях",
+      "type": 0
+    },
+    {
+      "term": "AI_Credits_Supporters",
+      "en": "Supporters",
+      "jp": "出演サポーター",
+      "ru": "Спонсоры",
+      "type": 0
+    }
+  ],
+  "componentTermOverrides": [
+    {
+      "file": "level0",
+      "localizePathId": 3482,
+      "originalTerm": "Credits_SupporterAppearances",
+      "replacementTerm": "AI_Credits_Supporters"
+    },
+    {
+      "file": "level0",
+      "localizePathId": 3824,
+      "originalTerm": "Credits_SupporterAppearances",
+      "replacementTerm": "AI_Credits_SupporterAppearances"
+    },
+    {
+      "file": "level0",
+      "localizePathId": 4200,
+      "originalTerm": "Credits_SupporterAppearances",
+      "replacementTerm": "AI_Credits_Sponsor"
+    },
+    {
+      "file": "level0",
+      "localizePathId": 4341,
+      "originalTerm": "Credits_SupporterAppearances",
+      "replacementTerm": "AI_Credits_SpecialThanks"
+    },
+    {
+      "file": "level0",
+      "localizePathId": 4476,
+      "originalTerm": "Credits_SupporterAppearances",
+      "replacementTerm": "AI_Credits_Music"
+    },
+    {
+      "file": "level0",
+      "localizePathId": 4515,
+      "originalTerm": "Credits_SupporterAppearances",
+      "replacementTerm": "AI_Credits_SpecialThanks"
+    },
+    {
+      "file": "level1",
+      "localizePathId": 38887,
+      "originalTerm": "Credits_SupporterAppearances",
+      "replacementTerm": "AI_Credits_Supporters"
+    },
+    {
+      "file": "level1",
+      "localizePathId": 39032,
+      "originalTerm": "Credits_SupporterAppearances",
+      "replacementTerm": "AI_Credits_SupporterAppearances"
+    }
+  ]
+}

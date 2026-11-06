@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <DnlibPath Condition="'$(DnlibPath)' == ''">C:/Portable/Total.Commander/Utilites/dnSpy/bin/dnlib.dll</DnlibPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="dnlib"><HintPath>$(DnlibPath)</HintPath></Reference>
+    <Compile Remove="Android*.cs" />
+    <Compile Remove="touch_fixture/**/*.cs" />
+    <Compile Remove="graphics_fixture/**/*.cs" />
+    <Compile Remove="qa_fixture/**/*.cs" />
+    <Compile Remove="color_fixture/**/*.cs" />
+    <Compile Remove="ao_fixture/**/*.cs" />
+    <Compile Remove="volume_fixture/**/*.cs" />
+    <Compile Remove="lifecycle_fixture/**/*.cs" />
+    <Compile Remove="culling_fixture/**/*.cs" />
+    <Compile Include="AndroidKeyState.cs" />
+    <Compile Include="AndroidInputPolicy.cs" />
+    <Compile Include="AndroidNativeMousePolicy.cs" />
+    <Compile Include="../startup_compat/StartupPatches.cs" />
+  </ItemGroup>
+</Project>

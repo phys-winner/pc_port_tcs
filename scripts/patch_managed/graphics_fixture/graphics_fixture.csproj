@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net10.0</TargetFramework><EnableDefaultCompileItems>false</EnableDefaultCompileItems><NoWarn>0649;0169</NoWarn><DefineConstants>$(DefineConstants);CLOSING_SHIFT_FIXTURE</DefineConstants></PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" /><Compile Include="UnityStubs.cs" />
+    <Compile Include="../AndroidGraphics.cs" Link="AndroidGraphics.cs" />
+    <Compile Include="../AndroidAmbientOcclusion.cs" Link="AndroidAmbientOcclusion.cs" />
+    <Compile Include="../ao_fixture/HBAOStubs.cs" Link="HBAOStubs.cs" />
+    <Compile Include="../AndroidVolumetrics.cs" Link="AndroidVolumetrics.cs" />
+    <Compile Include="../AndroidDevice.cs" Link="AndroidDevice.cs" />
+    <Compile Include="../AndroidVhsMemory.cs" Link="AndroidVhsMemory.cs" />
+    <Compile Include="../volume_fixture/AuraStubs.cs" Link="AuraStubs.cs" />
+    <Compile Include="../../mobile_render/MobileRenderSettings.cs" Link="MobileRenderSettings.cs" />
+    <Compile Include="../../mobile_render/PureScalePolicy.cs" Link="PureScalePolicy.cs" />
+  </ItemGroup>
+</Project>

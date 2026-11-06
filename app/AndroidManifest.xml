@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.chillasart.theclosingshift.port" android:versionCode="1" android:versionName="0.1-dev">
+  <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="37" />
+  <uses-feature android:glEsVersion="0x00030001" android:required="true" />
+  <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
+  <application android:label="The Closing Shift" android:icon="@mipmap/ic_launcher" android:roundIcon="@mipmap/ic_launcher" android:theme="@style/UnityThemeSelector" android:debuggable="false" android:allowBackup="false" android:extractNativeLibs="true" android:pageSizeCompat="enabled" android:enableOnBackInvokedCallback="true" android:appCategory="game">
+    <activity android:name="com.unity3d.player.UnityPlayerActivity" android:exported="true" android:screenOrientation="sensorLandscape" android:launchMode="singleTask" android:hardwareAccelerated="false" android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|density">
+      <intent-filter><action android:name="android.intent.action.MAIN" /><category android:name="android.intent.category.LAUNCHER" /></intent-filter>
+      <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
+    </activity>
+  <meta-data android:name="unity.build-id" android:value="b91e615d-5ae5-4637-a697-046341c856cf" /></application>
+</manifest>

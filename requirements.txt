@@ -1,0 +1,9 @@
+# Versions present in the port development environment on 2026-11-06.
+UnityPy==1.25.3
+lz4==4.4.5
+numpy==2.5.3
+Pillow==12.2.0
+astc-encoder-py==0.1.12
+etcpak==0.9.15
+texture2ddecoder==1.0.6
+pyelftools==0.33
